@@ -1,0 +1,18 @@
+Name:Animesh Sinha
+Phone:909090909
+Email:asdasd@adad.asda
+Subject:Hello
+Message:Hi I like Ethereal Events!
+
+Name:Animesh
+Phone:889323
+Email:hi@hi.hi
+Subject:Regarding Services
+Message:Hi I would like to ask about services
+
+Name:Animesh
+Phone:676767
+Email:sada@asd.ad
+Subject:Ethereal
+Message:Events
+
